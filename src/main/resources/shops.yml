@@ -1,0 +1,1230 @@
+gui:
+  itemname: '&8(->> §#3bfcff{ITEMNAME} &8x§#30ff56{AMOUNT} &8<<-)'
+  lore:
+    - ''
+    - '&8  * §#37d4c7Cena: §#15d160{PRICE}§#f3fa37zł'
+    - '{ENOUGHMONEY}'
+buy:
+  'p1':
+    itemName: 'DIAMENTOWY HELM'
+    #item-amount-data-enchant=level;
+    item: '310-1-0-protection=4;unbreaking=3'
+    category: PVP
+    price: 1.95
+    index: 10
+  'p2':
+    itemName: 'DIAMENTOWY NAPIERSNIK'
+    #item-amount-data-enchant=level;
+    item: '311-1-0-protection=4;unbreaking=3'
+    category: PVP
+    price: 1.95
+    index: 11
+  'p3':
+    itemName: 'WEDKA'
+    #item-amount-data-enchant=level;
+    item: '346-1-0'
+    category: PVP
+    price: 2.20
+    index: 12
+  'p4':
+    itemName: 'PERLY'
+    #item-amount-data-enchant=level;
+    item: '368-4-0'
+    category: PVP
+    price: 1.80
+    index: 13
+  'p5':
+    itemName: 'LUK'
+    #item-amount-data-enchant=level;
+    item: '261-1-0-power=5;punch=2;infinity=1'
+    category: PVP
+    price: 2.50
+    index: 14
+  'p6':
+    itemName: 'DIAMENTOWY MIECZ'
+    #item-amount-data-enchant=level;
+    item: '276-1-0-sharp=5;fire=2;'
+    category: PVP
+    price: 2.30
+    index: 15
+  'p7':
+    itemName: 'KILOF 6/3/3'
+    #item-amount-data-enchant=level;
+    item: '278-1-0-efficiency=6;fortune=3;unbreaking=3'
+    category: PVP
+    price: 13.00
+    index: 16
+  'p8':
+    itemName: 'DIAMENTOWE SPODNIE'
+    #item-amount-data-enchant=level;
+    item: '312-1-0-protection=4;unbreaking=3'
+    category: PVP
+    price: 1.95
+    index: 19
+  'p9':
+    itemName: 'DIAMENTOWE BUTY'
+    #item-amount-data-enchant=level;
+    item: '313-1-0-protection=4;unbreaking=3'
+    category: PVP
+    price: 1.95
+    index: 20
+  'p10':
+    itemName: 'WIADRO Z WODA'
+    #item-amount-data-enchant=level;
+    item: '326-1-0'
+    category: PVP
+    price: 0.80
+    index: 22
+  'p11':
+    itemName: 'DIAMENTOWY MIECZ'
+    #item-amount-data-enchant=level;
+    item: '276-1-0-knockback=2;'
+    category: PVP
+    price: 2.00
+    index: 24
+  'p12':
+    itemName: 'KILOF 5/3/3'
+    #item-amount-data-enchant=level;
+    item: '278-1-0-efficiency=5;fortune=3;unbreaking=3'
+    category: PVP
+    price: 1.90
+    index: 25
+  'p13':
+    itemName: 'BLOKI EMERALDOW'
+    #item-amount-data-enchant=level;
+    item: '133-64-0'
+    category: PVP
+    price: 5.20
+    index: 28
+  'p14':
+    itemName: 'ANTY NOGI'
+    #item-amount-data-enchant=level;
+    item: '317-1-0'
+    category: PVP
+    price: 2.20
+    index: 30
+  'p15':
+    itemName: 'SNIEZKI'
+    #item-amount-data-enchant=level;
+    item: '332-16-0'
+    category: PVP
+    price: 2.10
+    index: 32
+  'p16':
+    itemName: 'STRZALY'
+    #item-amount-data-enchant=level;
+    item: '262-64-0'
+    category: PVP
+    price: 0.50
+    index: 34
+  'p17':
+    itemName: 'ZESTAW DO KLEPY'
+    #item-amount-data-enchant=level;
+    item: '272-1-0-sharpness=3;'
+    category: PVP
+    price: 8.00
+    index: 37
+  'p18':
+    itemName: 'ZESTAW DO KLEPY+'
+    #item-amount-data-enchant=level;
+    item: '267-1-0-sharpness=5;'
+    category: PVP
+    price: 12.00
+    index: 38
+  'p19':
+    itemName: 'TURBO EXP NA 15MIN'
+    #item-amount-data-enchant=level;
+    item: '384-1-0'
+    category: PVP
+    price: 8.00
+    index: 40
+  'p20':
+    itemName: 'TURBO DROP NA 15MIN'
+    #item-amount-data-enchant=level;
+    item: '270-1-0'
+    category: PVP
+    price: 36.00
+    index: 42
+  'p21':
+    itemName: 'TURBO DROP NA 30MIN'
+    #item-amount-data-enchant=level;
+    item: '270-1-0'
+    category: PVP
+    price: 100.00
+    index: 43
+  'a1':
+    itemName: 'RZUCANE TNT'
+    #item-amount-data-enchant=level;
+    item: '46-1-0'
+    category: ATTACK
+    price: 60.00
+    index: 10
+  'a2':
+    itemName: 'TNT'
+    #item-amount-data-enchant=level;
+    item: '46-64-0'
+    category: ATTACK
+    price: 10.00
+    index: 11
+  'a3':
+    itemName: 'POCHODNIE'
+    #item-amount-data-enchant=level;
+    item: '76-32-0'
+    category: ATTACK
+    price: 0.60
+    index: 13
+  'a4':
+    itemName: 'KOMPARATOR'
+    #item-amount-data-enchant=level;
+    item: '404-64-0'
+    category: ATTACK
+    price: 1.00
+    index: 15
+  'a5':
+    itemName: 'KOMPARATOR'
+    #item-amount-data-enchant=level;
+    item: '404-32-0'
+    category: ATTACK
+    price: 0.50
+    index: 16
+  'a6':
+    itemName: 'WAGONIK Z TNT'
+    #item-amount-data-enchant=level;
+    item: '407-8-0'
+    category: ATTACK
+    price: 1.20
+    index: 19
+  'a7':
+    itemName: 'TORY AKTYWACYJNE'
+    #item-amount-data-enchant=level;
+    item: '157-16-0'
+    category: ATTACK
+    price: 0.80
+    index: 20
+  'a8':
+    itemName: 'STOL DO ZAKLEC'
+    #item-amount-data-enchant=level;
+    item: '116-64-0'
+    category: ATTACK
+    price: 1.25
+    index: 22
+  'a9':
+    itemName: 'PRZEKAZNIK'
+    #item-amount-data-enchant=level;
+    item: '356-64-0'
+    category: ATTACK
+    price: 1.00
+    index: 24
+  'a10':
+    itemName: 'PRZEKAZNIK'
+    #item-amount-data-enchant=level;
+    item: '356-32-0'
+    category: ATTACK
+    price: 0.50
+    index: 25
+  'a11':
+    itemName: 'BLOKI CZERWONEGO PROSZKU'
+    #item-amount-data-enchant=level;
+    item: '152-64-0'
+    category: ATTACK
+    price: 4.00
+    index: 28
+  'a12':
+    itemName: 'CZERWONY PROSZEK'
+    #item-amount-data-enchant=level;
+    item: '331-64-0'
+    category: ATTACK
+    price: 0.80
+    index: 29
+  'a13':
+    itemName: 'WAGONIK'
+    #item-amount-data-enchant=level;
+    item: '328-32-0'
+    category: ATTACK
+    price: 0.20
+    index: 33
+  'a14':
+    itemName: 'TORY'
+    #item-amount-data-enchant=level;
+    item: '66-64-0'
+    category: ATTACK
+    price: 0.60
+    index: 34
+  'a15':
+    itemName: 'DISPENSER'
+    #item-amount-data-enchant=level;
+    item: '23-64-0'
+    category: ATTACK
+    price: 3.00
+    index: 37
+  'a16':
+    itemName: 'DISPENSER'
+    #item-amount-data-enchant=level;
+    item: '23-32-0'
+    category: ATTACK
+    price: 1.50
+    index: 38
+  'a17':
+    itemName: 'PRZYCISK'
+    #item-amount-data-enchant=level;
+    item: '77-64-0'
+    category: ATTACK
+    price: 0.50
+    index: 40
+  'a18':
+    itemName: 'PISTON'
+    #item-amount-data-enchant=level;
+    item: '33-64-0'
+    category: ATTACK
+    price: 2.50
+    index: 42
+  'a19':
+    itemName: 'PISTON'
+    #item-amount-data-enchant=level;
+    item: '33-32-0'
+    category: ATTACK
+    price: 1.25
+    index: 43
+  'd1':
+    itemName: 'STONIARKI'
+    #item-amount-data-enchant=level;
+    item: '121-64-0'
+    category: CUBOID
+    price: 10.00
+    index: 10
+  'd2':
+    itemName: 'KOPACZ FOSY'
+    #item-amount-data-enchant=level;
+    item: '1-64-0'
+    category: CUBOID
+    price: 12.00
+    index: 11
+  'd3':
+    itemName: 'ENDERCHEST'
+    #item-amount-data-enchant=level;
+    item: '130-64-0'
+    category: CUBOID
+    price: 1.30
+    index: 13
+  'd4':
+    itemName: 'ENCHANT'
+    #item-amount-data-enchant=level;
+    item: '116-64-0'
+    category: CUBOID
+    price: 1.25
+    index: 15
+  'd5':
+    itemName: 'CRAFTING'
+    #item-amount-data-enchant=level;
+    item: '58-64-0'
+    category: CUBOID
+    price: 1.40
+    index: 16
+  'd6':
+    itemName: 'STONIARKI'
+    #item-amount-data-enchant=level;
+    item: '121-32-0'
+    category: CUBOID
+    price: 5.00
+    index: 19
+  'd7':
+    itemName: 'KOPACZ FOSY'
+    #item-amount-data-enchant=level;
+    item: '1-64-0'
+    category: CUBOID
+    price: 6.00
+    index: 20
+  'd8':
+    itemName: 'ENCHANT'
+    #item-amount-data-enchant=level;
+    item: '116-32-0'
+    category: CUBOID
+    price: 0.70
+    index: 24
+  'd9':
+    itemName: 'CRAFTING'
+    #item-amount-data-enchant=level;
+    item: '58-32-0'
+    category: CUBOID
+    price: 0.70
+    index: 25
+  'd10':
+    itemName: 'SANDFARMER'
+    #item-amount-data-enchant=level;
+    item: '12-64-0'
+    category: CUBOID
+    price: 12.00
+    index: 28
+  'd11':
+    itemName: 'BOYFARMER'
+    #item-amount-data-enchant=level;
+    item: '49-64-0'
+    category: CUBOID
+    price: 12.50
+    index: 29
+  'd12':
+    itemName: 'OBSYDIAN'
+    #item-amount-data-enchant=level;
+    item: '49-64-0'
+    category: CUBOID
+    price: 1.00
+    index: 31
+  'd13':
+    itemName: 'KOWADLA'
+    #item-amount-data-enchant=level;
+    item: '145-64-0'
+    category: CUBOID
+    price: 150
+    index: 33
+  'd14':
+    itemName: 'NITKI'
+    #item-amount-data-enchant=level;
+    item: '287-16-0'
+    category: CUBOID
+    price: 1.00
+    index: 34
+  'd15':
+    itemName: 'SANDFARMER'
+    #item-amount-data-enchant=level;
+    item: '12-32-0'
+    category: CUBOID
+    price: 6.00
+    index: 37
+  'd16':
+    itemName: 'BOYFARMER'
+    #item-amount-data-enchant=level;
+    item: '49-32-0'
+    category: CUBOID
+    price: 6.00
+    index: 38
+  'd17':
+    itemName: 'KOWADLA'
+    #item-amount-data-enchant=level;
+    item: '145-32-0'
+    category: CUBOID
+    price: 0.75
+    index: 42
+  'd18':
+    itemName: 'NITKI'
+    #item-amount-data-enchant=level;
+    item: '287-8-0'
+    category: CUBOID
+    price: 0.50
+    index: 43
+  'glina1':
+    itemName: 'GLINA'
+    #item-amount-data-enchant=level;
+    item: '159-32-0'
+    category: DESIGN_CLAY
+    price: 0.50
+    index: 10
+  'glina2':
+    itemName: 'GLINA'
+    #item-amount-data-enchant=level;
+    item: '159-32-1'
+    category: DESIGN_CLAY
+    price: 0.50
+    index: 11
+  'glina3':
+    itemName: 'GLINA'
+    #item-amount-data-enchant=level;
+    item: '159-32-2'
+    category: DESIGN_CLAY
+    price: 0.50
+    index: 12
+  'glina4':
+    itemName: 'GLINA'
+    #item-amount-data-enchant=level;
+    item: '159-32-3'
+    category: DESIGN_CLAY
+    price: 0.50
+    index: 13
+  'glina5':
+    itemName: 'GLINA'
+    #item-amount-data-enchant=level;
+    item: '159-32-4'
+    category: DESIGN_CLAY
+    price: 0.50
+    index: 14
+  'glina6':
+    itemName: 'GLINA'
+    #item-amount-data-enchant=level;
+    item: '159-32-5'
+    category: DESIGN_CLAY
+    price: 0.50
+    index: 15
+  'glina7':
+    itemName: 'GLINA'
+    #item-amount-data-enchant=level;
+    item: '159-32-6'
+    category: DESIGN_CLAY
+    price: 0.50
+    index: 16
+  'glina8':
+    itemName: 'GLINA'
+    #item-amount-data-enchant=level;
+    item: '159-32-7'
+    category: DESIGN_CLAY
+    price: 0.50
+    index: 19
+  'glina9':
+    itemName: 'GLINA'
+    #item-amount-data-enchant=level;
+    item: '159-32-8'
+    category: DESIGN_CLAY
+    price: 0.50
+    index: 20
+  'glina10':
+    itemName: 'GLINA'
+    #item-amount-data-enchant=level;
+    item: '159-32-9'
+    category: DESIGN_CLAY
+    price: 0.50
+    index: 21
+  'glina11':
+    itemName: 'GLINA'
+    #item-amount-data-enchant=level;
+    item: '159-32-10'
+    category: DESIGN_CLAY
+    price: 0.50
+    index: 22
+  'glina12':
+    itemName: 'GLINA'
+    #item-amount-data-enchant=level;
+    item: '159-32-11'
+    category: DESIGN_CLAY
+    price: 0.50
+    index: 23
+  'glina13':
+    itemName: 'GLINA'
+    #item-amount-data-enchant=level;
+    item: '159-32-12'
+    category: DESIGN_CLAY
+    price: 0.50
+    index: 24
+  'glina14':
+    itemName: 'GLINA'
+    #item-amount-data-enchant=level;
+    item: '159-32-13'
+    category: DESIGN_CLAY
+    price: 0.50
+    index: 25
+  'glina15':
+    itemName: 'GLINA'
+    #item-amount-data-enchant=level;
+    item: '159-32-14'
+    category: DESIGN_CLAY
+    price: 0.50
+    index: 28
+  'glina16':
+    itemName: 'GLINA'
+    #item-amount-data-enchant=level;
+    item: '159-32-15'
+    category: DESIGN_CLAY
+    price: 0.50
+    index: 29
+  'welna1':
+    itemName: 'WELNA'
+    #item-amount-data-enchant=level;
+    item: '35-32-0'
+    category: DESIGN_WOOL
+    price: 0.50
+    index: 10
+  'welna2':
+    itemName: 'WELNA'
+    #item-amount-data-enchant=level;
+    item: '35-32-1'
+    category: DESIGN_WOOL
+    price: 0.50
+    index: 11
+  'welna3':
+    itemName: 'WELNA'
+    #item-amount-data-enchant=level;
+    item: '35-32-2'
+    category: DESIGN_WOOL
+    price: 0.50
+    index: 12
+  'welna4':
+    itemName: 'WELNA'
+    #item-amount-data-enchant=level;
+    item: '35-32-3'
+    category: DESIGN_WOOL
+    price: 0.50
+    index: 13
+  'welna5':
+    itemName: 'WELNA'
+    #item-amount-data-enchant=level;
+    item: '35-32-4'
+    category: DESIGN_WOOL
+    price: 0.50
+    index: 14
+  'welna6':
+    itemName: 'WELNA'
+    #item-amount-data-enchant=level;
+    item: '35-32-5'
+    category: DESIGN_WOOL
+    price: 0.50
+    index: 15
+  'welna7':
+    itemName: 'WELNA'
+    #item-amount-data-enchant=level;
+    item: '35-32-6'
+    category: DESIGN_WOOL
+    price: 0.50
+    index: 16
+  'welna8':
+    itemName: 'WELNA'
+    #item-amount-data-enchant=level;
+    item: '35-32-7'
+    category: DESIGN_WOOL
+    price: 0.50
+    index: 19
+  'welna9':
+    itemName: 'WELNA'
+    #item-amount-data-enchant=level;
+    item: '35-32-8'
+    category: DESIGN_WOOL
+    price: 0.50
+    index: 20
+  'welna10':
+    itemName: 'WELNA'
+    #item-amount-data-enchant=level;
+    item: '35-32-9'
+    category: DESIGN_WOOL
+    price: 0.50
+    index: 21
+  'welna11':
+    itemName: 'WELNA'
+    #item-amount-data-enchant=level;
+    item: '35-32-10'
+    category: DESIGN_WOOL
+    price: 0.50
+    index: 22
+  'welna12':
+    itemName: 'WELNA'
+    #item-amount-data-enchant=level;
+    item: '35-32-11'
+    category: DESIGN_WOOL
+    price: 0.50
+    index: 23
+  'welna13':
+    itemName: 'WELNA'
+    #item-amount-data-enchant=level;
+    item: '35-32-12'
+    category: DESIGN_WOOL
+    price: 0.50
+    index: 24
+  'welna14':
+    itemName: 'WELNA'
+    #item-amount-data-enchant=level;
+    item: '35-32-13'
+    category: DESIGN_WOOL
+    price: 0.50
+    index: 25
+  'welna15':
+    itemName: 'WELNA'
+    #item-amount-data-enchant=level;
+    item: '35-32-14'
+    category: DESIGN_WOOL
+    price: 0.50
+    index: 28
+  'welna16':
+    itemName: 'WELNA'
+    #item-amount-data-enchant=level;
+    item: '35-32-15'
+    category: DESIGN_WOOL
+    price: 0.50
+    index: 29
+  'szklo1':
+    itemName: 'SZKLO'
+    #item-amount-data-enchant=level;
+    item: '95-32-0'
+    category: DESIGN_GLASS
+    price: 0.50
+    index: 10
+  'szklo2':
+    itemName: 'SZKLO'
+    #item-amount-data-enchant=level;
+    item: '95-32-1'
+    category: DESIGN_GLASS
+    price: 0.50
+    index: 11
+  'szklo3':
+    itemName: 'SZKLO'
+    #item-amount-data-enchant=level;
+    item: '95-32-2'
+    category: DESIGN_GLASS
+    price: 0.50
+    index: 12
+  'szklo4':
+    itemName: 'SZKLO'
+    #item-amount-data-enchant=level;
+    item: '95-32-3'
+    category: DESIGN_GLASS
+    price: 0.50
+    index: 13
+  'szklo5':
+    itemName: 'SZKLO'
+    #item-amount-data-enchant=level;
+    item: '95-32-4'
+    category: DESIGN_GLASS
+    price: 0.50
+    index: 14
+  'szklo6':
+    itemName: 'SZKLO'
+    #item-amount-data-enchant=level;
+    item: '95-32-5'
+    category: DESIGN_GLASS
+    price: 0.50
+    index: 15
+  'szklo7':
+    itemName: 'SZKLO'
+    #item-amount-data-enchant=level;
+    item: '95-32-6'
+    category: DESIGN_GLASS
+    price: 0.50
+    index: 16
+  'szklo8':
+    itemName: 'SZKLO'
+    #item-amount-data-enchant=level;
+    item: '95-32-7'
+    category: DESIGN_GLASS
+    price: 0.50
+    index: 19
+  'szklo9':
+    itemName: 'SZKLO'
+    #item-amount-data-enchant=level;
+    item: '95-32-8'
+    category: DESIGN_GLASS
+    price: 0.50
+    index: 20
+  'szklo10':
+    itemName: 'SZKLO'
+    #item-amount-data-enchant=level;
+    item: '95-32-9'
+    category: DESIGN_GLASS
+    price: 0.50
+    index: 21
+  'szklo11':
+    itemName: 'SZKLO'
+    #item-amount-data-enchant=level;
+    item: '95-32-10'
+    category: DESIGN_GLASS
+    price: 0.50
+    index: 22
+  'szklo12':
+    itemName: 'SZKLO'
+    #item-amount-data-enchant=level;
+    item: '95-32-11'
+    category: DESIGN_GLASS
+    price: 0.50
+    index: 23
+  'szklo13':
+    itemName: 'SZKLO'
+    #item-amount-data-enchant=level;
+    item: '95-32-12'
+    category: DESIGN_GLASS
+    price: 0.50
+    index: 24
+  'szklo14':
+    itemName: 'SZKLO'
+    #item-amount-data-enchant=level;
+    item: '95-32-13'
+    category: DESIGN_GLASS
+    price: 0.50
+    index: 25
+  'szklo15':
+    itemName: 'SZKLO'
+    #item-amount-data-enchant=level;
+    item: '95-32-14'
+    category: DESIGN_GLASS
+    price: 0.50
+    index: 28
+  'szklo16':
+    itemName: 'SZKLO'
+    #item-amount-data-enchant=level;
+    item: '95-32-15'
+    category: DESIGN_GLASS
+    price: 0.50
+    index: 29
+  'szklo17':
+    itemName: 'SZKLO'
+    #item-amount-data-enchant=level;
+    item: '20-32-0'
+    category: DESIGN_GLASS
+    price: 0.50
+    index: 30
+  'sadzonki1':
+    itemName: 'SADZONKA DEBU'
+    #item-amount-data-enchant=level;
+    item: '6-32-0'
+    category: DESIGN_SAPLINGS
+    price: 0.50
+    index: 10
+  'sadzonki2':
+    itemName: 'SADZONKA SWIERKU'
+    #item-amount-data-enchant=level;
+    item: '6-32-1'
+    category: DESIGN_SAPLINGS
+    price: 0.50
+    index: 11
+  'sadzonki3':
+    itemName: 'SADZONKA BRZOZY'
+    #item-amount-data-enchant=level;
+    item: '6-32-2'
+    category: DESIGN_SAPLINGS
+    price: 0.50
+    index: 12
+  'sadzonki4':
+    itemName: 'SADZONKA DZUNGLOWA'
+    #item-amount-data-enchant=level;
+    item: '6-32-3'
+    category: DESIGN_SAPLINGS
+    price: 0.50
+    index: 13
+  'sadzonki5':
+    itemName: 'SADZONKA AKACJI'
+    #item-amount-data-enchant=level;
+    item: '6-32-4'
+    category: DESIGN_SAPLINGS
+    price: 0.50
+    index: 14
+  'sadzonki6':
+    itemName: 'SADZONKA CIEMNEGO DEBU'
+    #item-amount-data-enchant=level;
+    item: '6-32-5'
+    category: DESIGN_SAPLINGS
+    price: 0.50
+    index: 15
+  'sadzonki7':
+    itemName: 'NASIONA PSZENICY'
+    #item-amount-data-enchant=level;
+    item: '295-32-0'
+    category: DESIGN_SAPLINGS
+    price: 0.50
+    index: 16
+  'sadzonki8':
+    itemName: 'NASIONA DYNI'
+    #item-amount-data-enchant=level;
+    item: '361-32-0'
+    category: DESIGN_SAPLINGS
+    price: 0.50
+    index: 19
+  'sadzonki9':
+    itemName: 'NASIONA ARBUZA'
+    #item-amount-data-enchant=level;
+    item: '362-32-0'
+    category: DESIGN_SAPLINGS
+    price: 0.50
+    index: 20
+  'sadzonki10':
+    itemName: 'TRZCINA'
+    #item-amount-data-enchant=level;
+    item: '338-32-0'
+    category: DESIGN_SAPLINGS
+    price: 0.50
+    index: 21
+  'sadzonki11':
+    itemName: 'KAKTUS'
+    #item-amount-data-enchant=level;
+    item: '81-32-0'
+    category: DESIGN_SAPLINGS
+    price: 0.50
+    index: 22
+  'kwiaty1':
+    itemName: 'DONICZKA'
+    #item-amount-data-enchant=level;
+    item: '390-16-0'
+    category: DESIGN_FLOWERS
+    price: 0.50
+    index: 10
+  'kwiaty2':
+    itemName: 'USCHNIETY KRZEW'
+    #item-amount-data-enchant=level;
+    item: '32-32-0'
+    category: DESIGN_FLOWERS
+    price: 0.50
+    index: 11
+  'kwiaty3':
+    itemName: 'MLECZ'
+    #item-amount-data-enchant=level;
+    item: '37-32-0'
+    category: DESIGN_FLOWERS
+    price: 0.50
+    index: 12
+  'kwiaty4':
+    itemName: 'MAK'
+    #item-amount-data-enchant=level;
+    item: '38-32-0'
+    category: DESIGN_FLOWERS
+    price: 0.50
+    index: 13
+  'kwiaty5':
+    itemName: 'NIEBIESKA ORCHIDEA'
+    #item-amount-data-enchant=level;
+    item: '38-32-1'
+    category: DESIGN_FLOWERS
+    price: 0.50
+    index: 14
+  'kwiaty6':
+    itemName: 'CZOSNEK'
+    #item-amount-data-enchant=level;
+    item: '38-32-2'
+    category: DESIGN_FLOWERS
+    price: 0.50
+    index: 15
+  'kwiaty7':
+    itemName: 'HOUSTONIA BLEKITNA'
+    #item-amount-data-enchant=level;
+    item: '38-32-3'
+    category: DESIGN_FLOWERS
+    price: 0.50
+    index: 16
+  'kwiaty8':
+    itemName: 'CZERWONY TULIPAN'
+    #item-amount-data-enchant=level;
+    item: '38-32-4'
+    category: DESIGN_FLOWERS
+    price: 0.50
+    index: 19
+  'kwiaty9':
+    itemName: 'POMARANCZOWY TULIPAN'
+    #item-amount-data-enchant=level;
+    item: '38-32-5'
+    category: DESIGN_FLOWERS
+    price: 0.50
+    index: 20
+  'kwiaty10':
+    itemName: 'BIALY TULIPAN'
+    #item-amount-data-enchant=level;
+    item: '38-32-6'
+    category: DESIGN_FLOWERS
+    price: 0.50
+    index: 21
+  'kwiaty11':
+    itemName: 'ROZOWY TULIPAN'
+    #item-amount-data-enchant=level;
+    item: '38-32-7'
+    category: DESIGN_FLOWERS
+    price: 0.50
+    index: 22
+  'kwiaty12':
+    itemName: 'SLONECZNIK'
+    #item-amount-data-enchant=level;
+    item: '175-32-0'
+    category: DESIGN_FLOWERS
+    price: 0.50
+    index: 23
+  'kwiaty13':
+    itemName: 'BEZ'
+    #item-amount-data-enchant=level;
+    item: '175-32-1'
+    category: DESIGN_FLOWERS
+    price: 0.50
+    index: 24
+  'kwiaty14':
+    itemName: 'KRZEW ROZY'
+    #item-amount-data-enchant=level;
+    item: '175-32-4'
+    category: DESIGN_FLOWERS
+    price: 0.50
+    index: 25
+  'kwiaty15':
+    itemName: 'PIWONIA'
+    #item-amount-data-enchant=level;
+    item: '175-32-5'
+    category: DESIGN_FLOWERS
+    price: 0.50
+    index: 28
+  'kwiaty16':
+    itemName: 'BRAZOWY GRZYB'
+    #item-amount-data-enchant=level;
+    item: '39-32-0'
+    category: DESIGN_FLOWERS
+    price: 0.50
+    index: 29
+  'kwiaty17':
+    itemName: 'CZERWONY GRZYB'
+    #item-amount-data-enchant=level;
+    item: '40-32-0'
+    category: DESIGN_FLOWERS
+    price: 0.50
+    index: 30
+  'zima1':
+    itemName: 'LOD'
+    #item-amount-data-enchant=level;
+    item: '79-32-0'
+    category: DESIGN_WINTER
+    price: 0.50
+    index: 10
+  'zima2':
+    itemName: 'ZBITY LOD'
+    #item-amount-data-enchant=level;
+    item: '174-32-0'
+    category: DESIGN_WINTER
+    price: 0.50
+    index: 11
+  'zima3':
+    itemName: 'BLOK SNIEGU'
+    #item-amount-data-enchant=level;
+    item: '80-32-0'
+    category: DESIGN_WINTER
+    price: 0.50
+    index: 12
+  'zima4':
+    itemName: 'SNIEG'
+    #item-amount-data-enchant=level;
+    item: '78-32-0'
+    category: DESIGN_WINTER
+    price: 0.50
+    index: 13
+  'nether1':
+    itemName: 'WIADRO Z LAWA'
+    #item-amount-data-enchant=level;
+    item: '327-1-0'
+    category: DESIGN_NETHER
+    price: 0.50
+    index: 10
+  'nether2':
+    itemName: 'OBSYDIAN'
+    #item-amount-data-enchant=level;
+    item: '49-32-0'
+    category: DESIGN_NETHER
+    price: 0.50
+    index: 11
+  'nether3':
+    itemName: 'BLOK NETHEROWEJ CEGLY'
+    #item-amount-data-enchant=level;
+    item: '112-32-0'
+    category: DESIGN_NETHER
+    price: 0.50
+    index: 12
+  'nether4':
+    itemName: 'NETHEROWE CEGLY'
+    #item-amount-data-enchant=level;
+    item: '405-32-0'
+    category: DESIGN_NETHER
+    price: 0.50
+    index: 13
+  'nether5':
+    itemName: 'NETHERRACK'
+    #item-amount-data-enchant=level;
+    item: '87-32-0'
+    category: DESIGN_NETHER
+    price: 0.50
+    index: 14
+  'nether6':
+    itemName: 'PIASEK DUSZ'
+    #item-amount-data-enchant=level;
+    item: '88-32-0'
+    category: DESIGN_NETHER
+    price: 0.50
+    index: 15
+  'nether7':
+    itemName: 'JASNOGLAZ'
+    #item-amount-data-enchant=level;
+    item: '89-32-0'
+    category: DESIGN_NETHER
+    price: 0.50
+    index: 16
+  'nether8':
+    itemName: 'KWARC'
+    #item-amount-data-enchant=level;
+    item: '406-32-0'
+    category: DESIGN_NETHER
+    price: 0.50
+    index: 19
+  'DRZEWO1':
+    itemName: 'DAB'
+    #item-amount-data-enchant=level;
+    item: '17-32-0'
+    category: DESIGN_WOOD
+    price: 0.50
+    index: 10
+  'DRZEWO2':
+    itemName: 'SWIERK'
+    #item-amount-data-enchant=level;
+    item: '17-32-1'
+    category: DESIGN_WOOD
+    price: 0.50
+    index: 11
+  'DRZEWO3':
+    itemName: 'BRZOZA'
+    #item-amount-data-enchant=level;
+    item: '17-32-2'
+    category: DESIGN_WOOD
+    price: 0.50
+    index: 12
+  'DRZEWO4':
+    itemName: 'DZUNGLOWE DREWNO'
+    #item-amount-data-enchant=level;
+    item: '17-32-0'
+    category: DESIGN_WOOD
+    price: 0.50
+    index: 13
+  'DRZEWO5':
+    itemName: 'AKACJA'
+    #item-amount-data-enchant=level;
+    item: '162-32-0'
+    category: DESIGN_WOOD
+    price: 0.50
+    index: 14
+  'DRZEWO6':
+    itemName: 'CIEMNY DAB'
+    #item-amount-data-enchant=level;
+    item: '162-32-1'
+    category: DESIGN_WOOD
+    price: 0.50
+    index: 15
+  'DRZEWO7':
+    itemName: 'LISCIE DEBU'
+    #item-amount-data-enchant=level;
+    item: '18-32-0'
+    category: DESIGN_WOOD
+    price: 0.50
+    index: 16
+  'DRZEWO8':
+    itemName: 'LISCIE SWIERKA'
+    #item-amount-data-enchant=level;
+    item: '18-32-1'
+    category: DESIGN_WOOD
+    price: 0.50
+    index: 19
+  'DRZEWO9':
+    itemName: 'LISCIE BRZOZY'
+    #item-amount-data-enchant=level;
+    item: '18-32-2'
+    category: DESIGN_WOOD
+    price: 0.50
+    index: 20
+  'DRZEWO10':
+    itemName: 'LISCIE DZUNGLOWE'
+    #item-amount-data-enchant=level;
+    item: '18-32-3'
+    category: DESIGN_WOOD
+    price: 0.50
+    index: 21
+  'DRZEWO11':
+    itemName: 'LISCIE AKACJI'
+    #item-amount-data-enchant=level;
+    item: '161-32-0'
+    category: DESIGN_WOOD
+    price: 0.50
+    index: 22
+  'DRZEWO12':
+    itemName: 'LISCIE CIEMNEGO DEBU'
+    #item-amount-data-enchant=level;
+    item: '161-32-1'
+    category: DESIGN_WOOD
+    price: 0.50
+    index: 23
+  'DRZEWO13':
+    itemName: 'PNACZA'
+    #item-amount-data-enchant=level;
+    item: '106-32-0'
+    category: DESIGN_WOOD
+    price: 0.50
+    index: 24
+sell:
+  's1':
+    itemName: 'DIAMENT'
+    #item-amount-data-enchant=level;
+    item: '264-64-0'
+    price: 0.03
+    evolution: true
+  's2':
+    itemName: 'EMERALD'
+    #item-amount-data-enchant=level;
+    item: '388-64-0'
+    price: 0.10
+    evolution: true
+  's3':
+    itemName: 'ZLOTO'
+    #item-amount-data-enchant=level;
+    item: '266-64-0'
+    price: 0.04
+  's4':
+    itemName: 'ZELAZO'
+    #item-amount-data-enchant=level;
+    item: '265-64-0'
+    price: 0.03
+  's5':
+    itemName: 'WEGIEL'
+    #item-amount-data-enchant=level;
+    item: '263-64-0'
+    price: 0.02
+  's6':
+    itemName: 'REDSTONE'
+    #item-amount-data-enchant=level;
+    item: '331-64-0'
+    price: 0.02
+  's7':
+    itemName: 'OBSYDIAN'
+    #item-amount-data-enchant=level;
+    item: '49-64-0'
+    price: 0.04
+  's8':
+    itemName: 'TNT'
+    #item-amount-data-enchant=level;
+    item: '46-64-0'
+    price: 0.05
+  's9':
+    itemName: 'KSIAZKA'
+    #item-amount-data-enchant=level;
+    item: '340-64-0'
+    price: 0.03
+  's10':
+    itemName: 'WEGIEL'
+    #item-amount-data-enchant=level;
+    item: '263-64-0'
+    price: 0.02
+  's11':
+    itemName: 'PERLA'
+    #item-amount-data-enchant=level;
+    item: '368-1-0'
+    price: 0.10
+  's12':
+    itemName: 'SZLAM'
+    #item-amount-data-enchant=level;
+    item: '341-64-0'
+    price: 0.10
+  's13':
+    itemName: 'DIAMENTOWY MIECZ'
+    #item-amount-data-enchant=level;
+    item: '276-1-0-knockback=2;'
+    price: 0.95
+  's14':
+    itemName: 'DIAMENTOWY MIECZ'
+    #item-amount-data-enchant=level;
+    item: '276-1-0-sharpness=5;fire=2;'
+    price: 1.00
+  's15':
+    itemName: 'DIAMENTOWY HELM'
+    #item-amount-data-enchant=level;
+    item: '310-1-0-protection=4;unbreaking=3'
+    price: 0.95
+  's16':
+    itemName: 'DIAMENTOWY NAPIERSNIK'
+    #item-amount-data-enchant=level;
+    item: '311-1-0-protection=4;unbreaking=3'
+    price: 0.95
+  's17':
+    itemName: 'DIAMENTOWE SPODNIE'
+    #item-amount-data-enchant=level;
+    item: '312-1-0-protection=4;unbreaking=3'
+    price: 0.95
+  's18':
+    itemName: 'DIAMENTOWE BUTY'
+    #item-amount-data-enchant=level;
+    item: '313-1-0-protection=4;unbreaking=3'
+    price: 0.95
+  's19':
+    itemName: 'RZUCANE TNT'
+    #item-amount-data-enchant=level;
+    item: '46-1-0'
+    price: 40.00
+  's20':
+    itemName: 'BEACON'
+    #item-amount-data-enchant=level;
+    item: '138-1-0'
+    price: 100.00

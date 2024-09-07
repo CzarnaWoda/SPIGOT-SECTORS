@@ -1,0 +1,21 @@
+package pl.supereasy.sectors.config.enums;
+
+public enum Config {
+    SECTOR,
+    DROP,
+    EFFECTS,
+    GUILD,
+    SECTORMAP,
+    CRAFTING,
+    TEXTCOMMANDS,
+    CORECONFIG,
+    ACHIEVEMENTCONFIG,
+    BOSSCONFIG,
+    SHOPCONFIG,
+    KITCONFIG,
+    TABLISTCONFIG,
+    SPECIALSTONECONFIG,
+    GUILDBLOCKEDITEMSCONFIG,
+    PROXIES,
+    CUSTOMENCHANTSCONFIG
+}

@@ -1,0 +1,154 @@
+sectors:
+  'sector1':
+    uniqueid: 1
+    name: sector-1
+    maxX: -200
+    maxZ: 1400
+    minX: -1600
+    minZ: -200
+    sectorType: NORMAL
+    offset: 15
+  'sector11':
+    uniqueid: 2
+    name: sector-11
+    maxX: -1600
+    maxZ: 1400
+    minX: -3000
+    minZ: -200
+    sectorType: NORMAL
+    offset: 15
+  'sector12':
+    uniqueid: 3
+    name: sector-12
+    maxX: -1600
+    maxZ: 3000
+    minX: -3000
+    minZ: 1400
+    sectorType: NORMAL
+    offset: 15
+  'sector13':
+    uniqueid: 4
+    name: sector-13
+    maxX: -200
+    maxZ: 3000
+    minX: -1600
+    minZ: 1400
+    sectorType: NORMAL
+    offset: 15
+  'sector2':
+    uniqueid: 5
+    name: sector-2
+    maxX: 1400
+    maxZ: 1600
+    minX: -200
+    minZ: 200
+    sectorType: NORMAL
+    offset: 15
+  'sector21':
+    uniqueid: 6
+    name: sector-21
+    maxX: 1400
+    maxZ: 3000
+    minX: -200
+    minZ: 1600
+    sectorType: NORMAL
+    offset: 15
+  'sector22':
+    uniqueid: 7
+    name: sector-22
+    maxX: 3000
+    maxZ: 3000
+    minX: 1400
+    minZ: 1600
+    sectorType: NORMAL
+    offset: 15
+  'sector23':
+    uniqueid: 8
+    name: sector-23
+    maxX: 3000
+    maxZ: 1600
+    minX: 1400
+    minZ: 200
+    sectorType: NORMAL
+    offset: 15
+  'sector3':
+    uniqueid: 9
+    name: sector-3
+    maxX: 1600
+    maxZ: 200
+    minX: 200
+    minZ: -1400
+    sectorType: NORMAL
+    offset: 15
+  'sector31':
+    uniqueid: 10
+    name: sector-31
+    maxX: 3000
+    maxZ: 200
+    minX: 1600
+    minZ: -1400
+    sectorType: NORMAL
+    offset: 15
+  'sector32':
+    uniqueid: 11
+    name: sector-32
+    maxX: 3000
+    maxZ: -1400
+    minX: 1600
+    minZ: -3000
+    sectorType: NORMAL
+    offset: 15
+  'sector33':
+    uniqueid: 12
+    name: sector-33
+    maxX: 1600
+    maxZ: -1400
+    minX: 200
+    minZ: -3000
+    sectorType: NORMAL
+    offset: 15
+  'sector4':
+    uniqueid: 13
+    name: sector-4
+    maxX: 200
+    maxZ: -200
+    minX: -1400
+    minZ: -1600
+    sectorType: NORMAL
+    offset: 15
+  'sector41':
+    uniqueid: 14
+    name: sector-41
+    maxX: -1400
+    maxZ: -200
+    minX: -3000
+    minZ: -1600
+    sectorType: NORMAL
+    offset: 15
+  'sector42':
+    uniqueid: 15
+    name: sector-42
+    maxX: -1400
+    maxZ: -1600
+    minX: -3000
+    minZ: -3000
+    sectorType: NORMAL
+    offset: 15
+  'sector43':
+    uniqueid: 16
+    name: sector-43
+    maxX: 200
+    maxZ: -1600
+    minX: -1400
+    minZ: -3000
+    sectorType: NORMAL
+    offset: 15
+  'spawn1':
+    uniqueid: 17
+    name: spawn-1
+    maxX: 200
+    maxZ: 200
+    minX: -200
+    minZ: -200
+    sectorType: SPAWN
+    offset: 15

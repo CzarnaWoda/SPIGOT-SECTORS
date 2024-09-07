@@ -1,0 +1,11 @@
+name: SpigotSectors
+main: pl.supereasy.sectors.SectorPlugin
+author:
+  - 'CzarnaWoda'
+  - 'TheEasyPeasy'
+version: 0.0.1-BETA
+description: 'SPIGOT-SECTORS-CORE version 1'
+website: https://xD.pl/
+depend:
+  - WorldGuard
+  - HolographicDisplays

@@ -1,0 +1,109 @@
+effects:
+  '1':
+    guiname: '&8->> ( §#ebf1fa&lSPEED I &8) <<-'
+    guilore:
+      - '&8->> §#1b67e0Koszt: §#09e80dBLOKI EMERALDU §#808080x5'
+      - '&8->> §#1b67e0Czas: §#8080802.5 MINUTY'
+      - ''
+      - '&8->> ( §#1b67e0Kliknij aby kupic ten EFEKT &8) <<-'
+    guiitem: POTION
+    guiitemdata: 8194
+    index: 13
+    effectcost: 133-0-5
+    potioneffects:
+      - SPEED;150;0
+  '2':
+    guiname: '&8->> ( §#ebf1fa&lSPEED II &8) <<-'
+    guilore:
+      - '&8->> §#1b67e0Koszt: §#09e80dBLOKI EMERALDU §#808080x10'
+      - '&8->> §#1b67e0Czas: §#8080802.5 MINUTY'
+      - ''
+      - '&8->> ( §#1b67e0Kliknij aby kupic ten EFEKT &8) <<-'
+    guiitem: POTION
+    guiitemdata: 8226
+    index: 22
+    effectcost: 133-0-10
+    potioneffects:
+      - SPEED;150;1
+  '3':
+    guiname: '&8->> ( §#ebf1fa&lEFEKT UCIEKINIERA &8) <<-'
+    guilore:
+      - '&8->> §#1b67e0Koszt: §#09e80dBLOKI EMERALDU §#808080x32'
+      - '&8->> §#1b67e0Czas: §#8080805 MINUT'
+      - ''
+      - '&8->> ( §#1b67e0Kliknij aby kupic ten EFEKT &8) <<-'
+    guiitem: DIAMOND_PICKAXE
+    guiitemdata: 0
+    index: 42
+    effectcost: 133-0-32
+    potioneffects:
+      - FAST_DIGGING;300;1
+      - SPEED;300;1
+  '4':
+    guiname: '&8->> ( §#ebf1fa&lHASTE II &8) <<-'
+    guilore:
+      - '&8->> §#1b67e0Koszt: §#09e80dBLOKI EMERALDU §#808080x10'
+      - '&8->> §#1b67e0Czas: §#8080805 MINUT'
+      - ''
+      - '&8->> ( §#1b67e0Kliknij aby kupic ten EFEKT &8) <<-'
+    guiitem: STONE_PICKAXE
+    guiitemdata: 0
+    index: 15
+    effectcost: 133-0-10
+    potioneffects:
+      - FAST_DIGGING;300;1
+  '5':
+    guiname: '&8->> ( §#ebf1fa&lHASTE II &8) <<-'
+    guilore:
+      - '&8->> §#1b67e0Koszt: §#09e80dBLOKI EMERALDU §#808080x15'
+      - '&8->> §#1b67e0Czas: §#80808010 MINUT'
+      - ''
+      - '&8->> ( §#1b67e0Kliknij aby kupic ten EFEKT &8) <<-'
+    guiitem: IRON_PICKAXE
+    guiitemdata: 0
+    index: 24
+    effectcost: 133-0-15
+    potioneffects:
+      - FAST_DIGGING;600;1
+  '6':
+    guiname: '&8->> ( §#ebf1fa&lSILA I &8) <<-'
+    guilore:
+      - '&8->> §#1b67e0Koszt: §#09e80dBLOKI EMERALDU §#808080x32'
+      - '&8->> §#1b67e0Czas: §#8080802.5 MINUTY'
+      - ''
+      - '&8->> ( §#1b67e0Kliknij aby kupic ten EFEKT &8) <<-'
+    guiitem: STONE_SWORD
+    guiitemdata: 0
+    index: 11
+    effectcost: 133-0-32
+    potioneffects:
+      - INCREASE_DAMAGE;150;0
+  '7':
+    guiname: '&8->> ( §#ebf1fa&lSILA II &8) <<-'
+    guilore:
+      - '&8->> §#1b67e0Koszt: §#09e80dBLOKI EMERALDU §#808080x64'
+      - '&8->> §#1b67e0Czas: §#8080802.5 MINUTY'
+      - ''
+      - '&8->> ( §#1b67e0Kliknij aby kupic ten EFEKT &8) <<-'
+    guiitem: IRON_SWORD
+    guiitemdata: 0
+    index: 20
+    effectcost: 133-0-64
+    potioneffects:
+      - INCREASE_DAMAGE;150;1
+  '8':
+    guiname: '&8->> ( §#ebf1fa&lEFEKT KLEPACZA &8) <<-'
+    guilore:
+      - '&8->> §#1b67e0Koszt: §#09e80dBLOKI EMERALDU §#808080x80'
+      - '&8->> §#1b67e0Czas: §#8080802.5 MINUTY'
+      - ''
+      - '&8->> ( §#1b67e0Kliknij aby kupic ten EFEKT &8) <<-'
+    guiitem: DIAMOND_SWORD
+    guiitemdata: 0
+    index: 38
+    effectcost: 133-0-80
+    potioneffects:
+      - INCREASE_DAMAGE;150;1
+      - SPEED;150;1
+
+

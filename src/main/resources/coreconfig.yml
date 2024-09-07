@@ -1,0 +1,66 @@
+www:
+  shop: 'https://wwww.eniumc.pl'
+depositmanager:
+  kox: 2
+  ref: 10
+  pearl: 2
+  emeraldblocks: 256
+  throwtnt: 5
+  fishingrods: 1
+protectionmanager:
+  protectiontime: 5m
+messages:
+  globalChatMessageFormat: '&8[&7{POINTS}&8] {GUILD}&a{RANK}{PLAYER}&8: {SUFFIX}{MESSAGE}'
+bordermanager:
+  border: 3500
+chatmanager:
+  slowdown: 15
+enablemanager:
+  diamonditems: 0
+  enchant: 0
+eventsmanager:
+  drop:
+    value: 3
+    time: 0
+  exp:
+    value: 1
+    time: 0
+  turbodrop:
+    value: 1
+    time: 0
+  turboexp:
+    value: 1
+    time: 0
+combatmanager:
+  allowedcmds:
+    - /effect
+    - /efekty
+    - /pvp
+    - /gpvp
+    - /helpop
+togglemanager:
+  pearls: true
+  pearlsonair: true
+  punch: true
+  knockback: true
+  pearlcooldown:
+    status: true
+    seconds: 10
+tntmanager:
+  from: 12
+  to: 20
+joinmanager:
+  message:
+    - '&8->> §#1bc4a3E§#1bc4b3N§#1bc4c4I§#1bb9c4U§#1badc4M§#1b97c4C§#1b8cc4.§#1b7ec4P§#1b59c4L &8<<-'
+    - '&8->> §#7dff95Witaj graczu na serwerze !'
+    - '&8->> §#7dff95Wszystkie pomocne komendy znajdują się pod §#75eafa/pomoc'
+    - '&8->> §#1bc4a3E§#1bc4b3N§#1bc4c4I§#1bb9c4U§#1badc4M§#1b97c4C§#1b8cc4.§#1b7ec4P§#1b59c4L &8<<-'
+randomteleport:
+  1vs1locations:
+    - ''
+  xvsxlocations:
+    - ''
+enchants:
+  blockedenchants:
+    - sharp-5
+    - unbreaking-3

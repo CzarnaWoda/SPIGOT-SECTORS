@@ -1,0 +1,181 @@
+craftings:
+  GENERATOR:
+    name: "&8->> ( §#f5d742GE§#f5e942NE§#e3f542RA§#cbf542TOR &8 ) <<-"
+    lore:
+      - "  &8|->> §#f5d742GE§#f5e942NE§#e3f542RA§#cbf542TOR"
+      - "  &8  |->> &7Po §#32db70polozeniu na ziemi &7generuje kamien!"
+    item: STONE
+    amount: 1
+    autocrafting: "1-0-8;278-0-1;"
+    slots:
+      1:
+        item: STONE
+        amount: 1
+      2:
+        item: STONE
+        amount: 1
+      3:
+        item: STONE
+        amount: 1
+      4:
+        item: STONE
+        amount: 1
+      5:
+        item: DIAMOND_PICKAXE
+        amount: 1
+      6:
+        item: STONE
+        amount: 1
+      7:
+        item: STONE
+        amount: 1
+      8:
+        item: STONE
+        amount: 1
+      9:
+        item: STONE
+        amount: 1
+  SANDFARMER:
+    name: "&8->> ( §#fbff8cS§#f8ff78A§#f5fc6aN§#f8ff63D§#f7ff52FA§#f1fa43RM§#e4ed2bER&8 ) <<-"
+    lore:
+      - "  &8|->> §#fbff8cS§#f8ff78A§#f5fc6aN§#f8ff63D§#f7ff52FA§#f1fa43RM§#e4ed2bER"
+      - "  &8  |->> &7Generuje §#f8ff6bpiasek &7 do dołu dopóki nie natrafi na §#353626BEDROCK"
+    item: SAND
+    amount: 1
+    autocrafting: "12-0-8;322-0-1;"
+    slots:
+      1:
+        item: SAND
+        amount: 1
+      2:
+        item: SAND
+        amount: 1
+      3:
+        item: SAND
+        amount: 1
+      4:
+        item: SAND
+        amount: 1
+      5:
+        item: GOLDEN_APPLE
+        amount: 1
+      6:
+        item: SAND
+        amount: 1
+      7:
+        item: SAND
+        amount: 1
+      8:
+        item: SAND
+        amount: 1
+      9:
+        item: SAND
+        amount: 1
+  BOYFARMER:
+    name: "&8->> ( §#789effB§#608cfcO§#4c7bf5Y§#3a6bf0FA§#2759e3RM§#1448d9ER&8 ) <<-"
+    lore:
+      - "  &8|->> §#789effB§#608cfcO§#4c7bf5Y§#3a6bf0FA§#2759e3RM§#1448d9ER&8"
+      - "  &8  |->> &7Generuje §#203f96OBSYDIAN &7 do dołu dopóki nie natrafi na §#353626BEDROCK"
+    item: OBSIDIAN
+    amount: 1
+    autocrafting: "49-0-8;322-0-1;"
+    slots:
+      1:
+        item: OBSIDIAN
+        amount: 1
+      2:
+        item: OBSIDIAN
+        amount: 1
+      3:
+        item: OBSIDIAN
+        amount: 1
+      4:
+        item: OBSIDIAN
+        amount: 1
+      5:
+        item: GOLDEN_APPLE
+        amount: 1
+      6:
+        item: OBSIDIAN
+        amount: 1
+      7:
+        item: OBSIDIAN
+        amount: 1
+      8:
+        item: OBSIDIAN
+        amount: 1
+      9:
+        item: OBSIDIAN
+        amount: 1
+  KOPACZFOSY:
+    name: "&8->> ( §#ac63ffK§#9546f0O§#8932edP§#7821dbA§#6a13cfC§#620ac7Z §#642fa1FO§#521d8fSY&8 ) <<-"
+    lore:
+      - "  &8|->> §#ac63ffK§#9546f0O§#8932edP§#7821dbA§#6a13cfC§#620ac7Z §#642fa1FO§#521d8fSY&8"
+      - "  &8  |->> &7Niszczy §#2eccd1bloki &7w dół, dopóki nie natrafi na §#353626BEDROCK"
+    item: STONE
+    amount: 1
+    autocrafting: "388-0-8;278-0-1;"
+    slots:
+      1:
+        item: EMERALD
+        amount: 1
+      2:
+        item: EMERALD
+        amount: 1
+      3:
+        item: EMERALD
+        amount: 1
+      4:
+        item: EMERALD
+        amount: 1
+      5:
+        item: DIAMOND_PICKAXE
+        amount: 1
+      6:
+        item: EMERALD
+        amount: 1
+      7:
+        item: EMERALD
+        amount: 1
+      8:
+        item: EMERALD
+        amount: 1
+      9:
+        item: EMERALD
+        amount: 1
+  ANTY_NOGI:
+    name: "&8->> ( §#ff66ccAN§#f759c3TY §#e640aeNO§#cf2b98GI&8 ) <<-"
+    lore:
+      - "  &8|->> §#ff66ccAN§#f759c3TY §#e640aeNO§#cf2b98GI"
+      - "  &8  |->> &7Trzymane w ręce §#d138ffteleportuje Cię&7 do gracza, który aktualnie §#d41c5fuderza&7 Ciebie"
+    item: GOLD_BOOTS
+    amount: 1
+    autocrafting: "133-0-8;317-0-1;"
+    slots:
+      1:
+        item: EMERALD_BLOCK
+        amount: 1
+      2:
+        item: EMERALD_BLOCK
+        amount: 1
+      3:
+        item: EMERALD_BLOCK
+        amount: 1
+      4:
+        item: EMERALD_BLOCK
+        amount: 1
+      5:
+        item: GOLD_BOOTS
+        amount: 1
+      6:
+        item: EMERALD_BLOCK
+        amount: 1
+      7:
+        item: EMERALD_BLOCK
+        amount: 1
+      8:
+        item: EMERALD_BLOCK
+        amount: 1
+      9:
+        item: EMERALD_BLOCK
+        amount: 1

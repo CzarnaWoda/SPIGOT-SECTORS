@@ -1,0 +1,128 @@
+customEnchants:
+  #whatever name can be everything
+  protection:
+    #name of enchant \\ simplify
+    enchantment: protection
+    #cost of enchant scale with level || example: enchantmentCost: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentCost: 10
+    #enchantmentLevels of enchantment it means that will be available enchantment level 1,2,3,4...n
+    enchantmentLevels: 4
+    #books which are needs for enchant at level || example: enchantmentBooks: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentBooks: 7
+  unbreaking:
+    #name of enchant \\ simplify
+    enchantment: durability
+    #cost of enchant scale with level || example: enchantmentCost: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentCost: 10
+    #enchantmentLevels of enchantment it means that will be available enchantment level 1,2,3,4...n
+    enchantmentLevels: 3
+    #books which are needs for enchant at level || example: enchantmentBooks: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentBooks: 7
+  featherfalling:
+    #name of enchant \\ simplify
+    enchantment: featherfalling
+    #cost of enchant scale with level || example: enchantmentCost: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentCost: 5
+    #enchantmentLevels of enchantment it means that will be available enchantment level 1,2,3,4...n
+    enchantmentLevels: 4
+    #books which are needs for enchant at level || example: enchantmentBooks: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentBooks: 7
+  efficiency:
+    #name of enchant \\ simplify
+    enchantment: efficiency
+    #cost of enchant scale with level || example: enchantmentCost: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentCost: 10
+    #enchantmentLevels of enchantment it means that will be available enchantment level 1,2,3,4...n
+    enchantmentLevels: 5
+    #books which are needs for enchant at level || example: enchantmentBooks: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentBooks: 5
+  fortune:
+    #name of enchant \\ simplify
+    enchantment: fortune
+    #cost of enchant scale with level || example: enchantmentCost: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentCost: 10
+    #enchantmentLevels of enchantment it means that will be available enchantment level 1,2,3,4...n
+    enchantmentLevels: 3
+    #books which are needs for enchant at level || example: enchantmentBooks: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentBooks: 7
+  silktouch:
+    #name of enchant \\ simplify
+    enchantment: silktouch
+    #cost of enchant scale with level || example: enchantmentCost: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentCost: 10
+    #enchantmentLevels of enchantment it means that will be available enchantment level 1,2,3,4...n
+    enchantmentLevels: 1
+    #books which are needs for enchant at level || example: enchantmentBooks: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentBooks: 10
+  sharpness:
+    #name of enchant \\ simplify
+    enchantment: sharpness
+    #cost of enchant scale with level || example: enchantmentCost: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentCost: 10
+    #enchantmentLevels of enchantment it means that will be available enchantment level 1,2,3,4...n
+    enchantmentLevels: 5
+    #books which are needs for enchant at level || example: enchantmentBooks: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentBooks: 5
+  looting:
+    #name of enchant \\ simplify
+    enchantment: looting
+    #cost of enchant scale with level || example: enchantmentCost: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentCost: 10
+    #enchantmentLevels of enchantment it means that will be available enchantment level 1,2,3,4...n
+    enchantmentLevels: 3
+    #books which are needs for enchant at level || example: enchantmentBooks: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentBooks: 7
+  fireaspect:
+    #name of enchant \\ simplify
+    enchantment: fireaspect
+    #cost of enchant scale with level || example: enchantmentCost: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentCost: 10
+    #enchantmentLevels of enchantment it means that will be available enchantment level 1,2,3,4...n
+    enchantmentLevels: 2
+    #books which are needs for enchant at level || example: enchantmentBooks: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentBooks: 10
+  knockback:
+    #name of enchant \\ simplify
+    enchantment: knockback
+    #cost of enchant scale with level || example: enchantmentCost: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentCost: 10
+    #enchantmentLevels of enchantment it means that will be available enchantment level 1,2,3,4...n
+    enchantmentLevels: 2
+    #books which are needs for enchant at level || example: enchantmentBooks: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentBooks: 5
+  power:
+    #name of enchant \\ simplify
+    enchantment: power
+    #cost of enchant scale with level || example: enchantmentCost: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentCost: 10
+    #enchantmentLevels of enchantment it means that will be available enchantment level 1,2,3,4...n
+    enchantmentLevels: 5
+    #books which are needs for enchant at level || example: enchantmentBooks: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentBooks: 5
+  punch:
+    #name of enchant \\ simplify
+    enchantment: punch
+    #cost of enchant scale with level || example: enchantmentCost: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentCost: 10
+    #enchantmentLevels of enchantment it means that will be available enchantment level 1,2,3,4...n
+    enchantmentLevels: 2
+    #books which are needs for enchant at level || example: enchantmentBooks: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentBooks: 10
+  flame:
+    #name of enchant \\ simplify
+    enchantment: flame
+    #cost of enchant scale with level || example: enchantmentCost: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentCost: 20
+    #enchantmentLevels of enchantment it means that will be available enchantment level 1,2,3,4...n
+    enchantmentLevels: 1
+    #books which are needs for enchant at level || example: enchantmentBooks: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentBooks: 15
+  infinity:
+    #name of enchant \\ simplify
+    enchantment: infinity
+    #cost of enchant scale with level || example: enchantmentCost: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentCost: 30
+    #enchantmentLevels of enchantment it means that will be available enchantment level 1,2,3,4...n
+    enchantmentLevels: 1
+    #books which are needs for enchant at level || example: enchantmentBooks: 5 {level_1: 5 level_2: 10 level_3:15 ...}
+    enchantmentBooks: 20

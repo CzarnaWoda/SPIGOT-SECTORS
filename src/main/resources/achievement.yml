@@ -1,0 +1,704 @@
+gui:
+  name: "&8->> &8( &6&lOSIAGNIECIA &8) <<-"
+  itemname: "&8->> &8( &c{NAME} &8) <<-"
+  lore:
+    notfinished:
+      - '  &8->> &a&nInformacje:'
+      - ''
+      - '    &8* &7Wynik: &c{VALUE}&8/&a{AMOUNT}'
+      - '    &8* &7Postep: &c{PROCENT}%'
+      - ''
+      - '&8  ->> &a&nNagrody:'
+      - ''
+      - '{REWARDS}'
+      - ''
+      - '    &8->> ( &cOsiagniecie nie skonczone! &8) <<-'
+    during:
+      - '  &8->> &a&nInformacje:'
+      - ''
+      - '    &8* &7Wynik: &6{VALUE}&8/&a{AMOUNT}'
+      - '    &8* &7Postep: &6{PROCENT}%'
+      - ''
+      - '&8  ->> &a&nNagrody:'
+      - ''
+      - '{REWARDS}'
+      - ''
+      - '    &8->> ( &6Osiagniecie do odebrania! &8) <<-'
+    finished:
+      - '  &8->> &a&nInformacje:'
+      - ''
+      - '    &8* &7Wynik: &2{VALUE}&8/&a{AMOUNT}'
+      - '    &8* &7Postep: &2{PROCENT}%'
+      - ''
+      - '&8  ->> &a&nNagrody:'
+      - ''
+      - '{REWARDS}'
+      - ''
+      - '    &8->> ( &2Osiagniecie ukonczone! &8) <<-'
+achievements:
+  'K1':
+    name: 'RAMBO I'
+    type: KILLS
+    amount: 10
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-1-0'
+    moneyreward: 250
+  'K2':
+    name: 'RAMBO II'
+    type: KILLS
+    amount: 25
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-2-0'
+      - '165-1-0'
+    moneyreward: 550
+  'K3':
+    name: 'RAMBO III'
+    type: KILLS
+    amount: 45
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-3-0'
+    moneyreward: 820
+  'K4':
+    name: 'RAMBO IV'
+    type: KILLS
+    amount: 80
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-5-0'
+      - '133-32-0'
+    moneyreward: 1000
+  'K5':
+    name: 'RAMBO V'
+    type: KILLS
+    amount: 150
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-8-0'
+      - '133-64-1'
+      - '322-16-1'
+    moneyreward: 1000
+  'K6':
+    name: 'RAMBO VI'
+    type: KILLS
+    amount: 220
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-12-0'
+      - '133-92-0'
+      - '322-32-1'
+    moneyreward: 1500
+  'K7':
+    name: 'RAMBO VII'
+    type: KILLS
+    amount: 300
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-16-0'
+      - '133-128-0'
+      - '322-48-1'
+    moneyreward: 2500
+  'K8':
+    name: 'RAMBO VIII'
+    type: KILLS
+    amount: 450
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-32-0'
+      - '133-256-0'
+      - '322-92-1'
+    moneyreward: 4000
+  'S1':
+    name: 'NOOB I'
+    type: DEATHS
+    amount: 10
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-1-0'
+    moneyreward: 250
+  'S2':
+    name: 'NOOB II'
+    type: DEATHS
+    amount: 25
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-2-0'
+      - '165-1-0'
+    moneyreward: 550
+  'S3':
+    name: 'NOOB III'
+    type: DEATHS
+    amount: 45
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-3-0'
+    moneyreward: 820
+  'S4':
+    name: 'NOOB IV'
+    type: DEATHS
+    amount: 80
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-5-0'
+      - '133-32-0'
+    moneyreward: 1000
+  'S5':
+    name: 'NOOB V'
+    type: DEATHS
+    amount: 150
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-8-0'
+      - '133-64-1'
+      - '322-16-1'
+    moneyreward: 1000
+  'S6':
+    name: 'NOOB VI'
+    type: DEATHS
+    amount: 220
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-12-0'
+      - '133-92-0'
+      - '322-32-1'
+    moneyreward: 1500
+  'S7':
+    name: 'NOOB VII'
+    type: DEATHS
+    amount: 300
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-16-0'
+      - '133-128-0'
+      - '322-48-1'
+    moneyreward: 2500
+  'S8':
+    name: 'NOOB VIII'
+    type: DEATHS
+    amount: 450
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-32-0'
+      - '133-256-0'
+      - '322-92-1'
+    moneyreward: 4000
+  'A1':
+    name: 'POMOCNIK I'
+    type: ASSISTS
+    amount: 10
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-1-0'
+    moneyreward: 250
+  'A2':
+    name: 'POMOCNIK II'
+    type: ASSISTS
+    amount: 25
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-2-0'
+      - '165-1-0'
+    moneyreward: 550
+  'A3':
+    name: 'POMOCNIK III'
+    type: ASSISTS
+    amount: 45
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-3-0'
+    moneyreward: 820
+  'A4':
+    name: 'POMOCNIK IV'
+    type: ASSISTS
+    amount: 80
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-5-0'
+      - '133-32-0'
+    moneyreward: 1000
+  'A5':
+    name: 'POMOCNIK V'
+    type: ASSISTS
+    amount: 150
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-8-0'
+      - '133-64-1'
+      - '322-16-1'
+    moneyreward: 1000
+  'A6':
+    name: 'POMOCNIK VI'
+    type: ASSISTS
+    amount: 220
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-12-0'
+      - '133-92-0'
+      - '322-32-1'
+    moneyreward: 1500
+  'A7':
+    name: 'POMOCNIK VII'
+    type: ASSISTS
+    amount: 300
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-16-0'
+      - '133-128-0'
+      - '322-48-1'
+    moneyreward: 2500
+  'A8':
+    name: 'POMOCNIK VIII'
+    type: ASSISTS
+    amount: 450
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-32-0'
+      - '133-256-0'
+      - '322-92-1'
+    moneyreward: 4000
+  'P1':
+    name: 'UCIEKINIER I'
+    type: THROW_PEARL
+    amount: 10
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-1-0'
+    moneyreward: 250
+  'P2':
+    name: 'UCIEKINIER II'
+    type: THROW_PEARL
+    amount: 25
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-2-0'
+      - '165-1-0'
+    moneyreward: 550
+  'P3':
+    name: 'UCIEKINIER III'
+    type: THROW_PEARL
+    amount: 45
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-3-0'
+    moneyreward: 820
+  'P4':
+    name: 'UCIEKINIER IV'
+    type: THROW_PEARL
+    amount: 80
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-5-0'
+      - '133-32-0'
+    moneyreward: 1000
+  'P5':
+    name: 'UCIEKINIER V'
+    type: THROW_PEARL
+    amount: 150
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-8-0'
+      - '133-64-1'
+      - '322-16-1'
+    moneyreward: 1000
+  'P6':
+    name: 'UCIEKINIER VI'
+    type: THROW_PEARL
+    amount: 220
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-12-0'
+      - '133-92-0'
+      - '322-32-1'
+    moneyreward: 1500
+  'P7':
+    name: 'UCIEKINIER VII'
+    type: THROW_PEARL
+    amount: 300
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-16-0'
+      - '133-128-0'
+      - '322-48-1'
+    moneyreward: 2500
+  'P8':
+    name: 'UCIEKINIER VIII'
+    type: THROW_PEARL
+    amount: 450
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-32-0'
+      - '133-256-0'
+      - '322-92-1'
+    moneyreward: 4000
+  'KOX1':
+    name: 'GRUBY I'
+    type: EAT_KOX
+    amount: 10
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-1-0'
+    moneyreward: 250
+  'KOX2':
+    name: 'GRUBY II'
+    type: EAT_KOX
+    amount: 25
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-2-0'
+      - '165-1-0'
+    moneyreward: 550
+  'KOX3':
+    name: 'GRUBY III'
+    type: EAT_KOX
+    amount: 45
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-3-0'
+    moneyreward: 820
+  'KOX4':
+    name: 'GRUBY IV'
+    type: EAT_KOX
+    amount: 80
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-5-0'
+      - '133-32-0'
+    moneyreward: 1000
+  'KOX5':
+    name: 'GRUBY V'
+    type: EAT_KOX
+    amount: 150
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-8-0'
+      - '133-64-1'
+      - '322-16-1'
+    moneyreward: 1000
+  'KOX6':
+    name: 'GRUBY VI'
+    type: EAT_KOX
+    amount: 220
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-12-0'
+      - '133-92-0'
+      - '322-32-1'
+    moneyreward: 1500
+  'KOX7':
+    name: 'GRUBY VII'
+    type: EAT_KOX
+    amount: 300
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-16-0'
+      - '133-128-0'
+      - '322-48-1'
+    moneyreward: 2500
+  'KOX8':
+    name: 'GRUBY VIII'
+    type: EAT_KOX
+    amount: 450
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-32-0'
+      - '133-256-0'
+      - '322-92-1'
+    moneyreward: 4000
+  'R1':
+    name: 'GRUBY I'
+    type: EAT_REF
+    amount: 10
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-1-0'
+    moneyreward: 250
+  'R2':
+    name: 'GRUBY II'
+    type: EAT_REF
+    amount: 25
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-2-0'
+      - '165-1-0'
+    moneyreward: 550
+  'R3':
+    name: 'GRUBY III'
+    type: EAT_REF
+    amount: 45
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-3-0'
+    moneyreward: 820
+  'R4':
+    name: 'GRUBY IV'
+    type: EAT_REF
+    amount: 80
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-5-0'
+      - '133-32-0'
+    moneyreward: 1000
+  'R5':
+    name: 'GRUBY V'
+    type: EAT_REF
+    amount: 150
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-8-0'
+      - '133-64-1'
+      - '322-16-1'
+    moneyreward: 1000
+  'R6':
+    name: 'GRUBY VI'
+    type: EAT_REF
+    amount: 220
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-12-0'
+      - '133-92-0'
+      - '322-32-1'
+    moneyreward: 1500
+  'R7':
+    name: 'GRUBY VII'
+    type: EAT_REF
+    amount: 300
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-16-0'
+      - '133-128-0'
+      - '322-48-1'
+    moneyreward: 2500
+  'R8':
+    name: 'GRUBY VIII'
+    type: EAT_REF
+    amount: 450
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-32-0'
+      - '133-256-0'
+      - '322-92-1'
+    moneyreward: 4000
+  'CZAS1':
+    name: 'NOLIFE I'
+    type: SPEND_TIME
+    amount: 10
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-1-0'
+    moneyreward: 250
+  'CZAS2':
+    name: 'NOLIFE II'
+    type: SPEND_TIME
+    amount: 25
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-2-0'
+      - '165-1-0'
+    moneyreward: 550
+  'CZAS3':
+    name: 'NOLIFE III'
+    type: SPEND_TIME
+    amount: 45
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-3-0'
+    moneyreward: 820
+  'CZAS4':
+    name: 'NOLIFE IV'
+    type: SPEND_TIME
+    amount: 80
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-5-0'
+      - '133-32-0'
+    moneyreward: 1000
+  'CZAS5':
+    name: 'NOLIFE V'
+    type: SPEND_TIME
+    amount: 150
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-8-0'
+      - '133-64-1'
+      - '322-16-1'
+    moneyreward: 1000
+  'CZAS6':
+    name: 'NOLIFE VI'
+    type: SPEND_TIME
+    amount: 220
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-12-0'
+      - '133-92-0'
+      - '322-32-1'
+    moneyreward: 1500
+  'CZAS7':
+    name: 'NOLIFE VII'
+    type: SPEND_TIME
+    amount: 300
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-16-0'
+      - '133-128-0'
+      - '322-48-1'
+    moneyreward: 2500
+  'CZAS8':
+    name: 'NOLIFE VIII'
+    type: SPEND_TIME
+    amount: 450
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-32-0'
+      - '133-256-0'
+      - '322-92-1'
+    moneyreward: 4000
+  'KOP1':
+    name: 'GORNIK I'
+    type: BREAK_STONE
+    amount: 10
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-1-0'
+    moneyreward: 250
+  'KOP2':
+    name: 'GORNIK II'
+    type: BREAK_STONE
+    amount: 25
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-2-0'
+      - '165-1-0'
+    moneyreward: 550
+  'KOP3':
+    name: 'GORNIK III'
+    type: BREAK_STONE
+    amount: 45
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-3-0'
+    moneyreward: 820
+  'KOP4':
+    name: 'GORNIK IV'
+    type: BREAK_STONE
+    amount: 80
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-5-0'
+      - '133-32-0'
+    moneyreward: 1000
+  'KOP5':
+    name: 'GORNIK V'
+    type: BREAK_STONE
+    amount: 150
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-8-0'
+      - '133-64-1'
+      - '322-16-1'
+    moneyreward: 1000
+  'KOP6':
+    name: 'GORNIK VI'
+    type: BREAK_STONE
+    amount: 220
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-12-0'
+      - '133-92-0'
+      - '322-32-1'
+    moneyreward: 1500
+  'KOP7':
+    name: 'GORNIK VII'
+    type: BREAK_STONE
+    amount: 300
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-16-0'
+      - '133-128-0'
+      - '322-48-1'
+    moneyreward: 2500
+  'KOP8':
+    name: 'GORNIK VIII'
+    type: BREAK_STONE
+    amount: 450
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-32-0'
+      - '133-256-0'
+      - '322-92-1'
+    moneyreward: 4000
+  'RANK1':
+    name: 'RANKING I'
+    type: POINTS
+    amount: 10
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-1-0'
+    moneyreward: 250
+  'RANK2':
+    name: 'RANKING II'
+    type: POINTS
+    amount: 25
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-2-0'
+      - '165-1-0'
+    moneyreward: 550
+  'RANK3':
+    name: 'RANKING III'
+    type: POINTS
+    amount: 45
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-3-0'
+    moneyreward: 820
+  'RANK4':
+    name: 'RANKING IV'
+    type: POINTS
+    amount: 80
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-5-0'
+      - '133-32-0'
+    moneyreward: 1000
+  'RANK5':
+    name: 'RANKING V'
+    type: POINTS
+    amount: 150
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-8-0'
+      - '133-64-1'
+      - '322-16-1'
+    moneyreward: 1000
+  'RANK6':
+    name: 'RANKING VI'
+    type: POINTS
+    amount: 220
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-12-0'
+      - '133-92-0'
+      - '322-32-1'
+    moneyreward: 1500
+  'RANK7':
+    name: 'RANKING VII'
+    type: POINTS
+    amount: 300
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-16-0'
+      - '133-128-0'
+      - '322-48-1'
+    moneyreward: 2500
+  'RANK8':
+    name: 'RANKING VIII'
+    type: POINTS
+    amount: 450
+    #item-data-amount-enchant=level;
+    rewards:
+      - '54-32-0'
+      - '133-256-0'
+      - '322-92-1'
+    moneyreward: 4000

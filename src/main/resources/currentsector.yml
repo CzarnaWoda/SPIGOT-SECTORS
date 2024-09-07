@@ -1,0 +1,13 @@
+api:
+  host: "good.ip.pl"
+redis:
+  server: "good.ip.pl"
+  password: "super ultimate password noone knows about it go search somewhere else"
+sector:
+  uniqueid: 1
+  nettyport: 9013
+mysql:
+  server: "localhost"
+  user: "root"
+  password: "good password"
+  database: "sectors"
